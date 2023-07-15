@@ -1,3 +1,8 @@
 {
-    "dotnet.defaultSolution": "DatingApp.sln"
+    "dotnet.defaultSolution": "DatingApp.sln",
+    "files.exclude": {
+        ".gitignore": true,
+        "**/bin": true,
+        "**/obj": true
+    }
 }
